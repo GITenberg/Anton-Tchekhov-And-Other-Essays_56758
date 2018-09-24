@@ -1,0 +1,32 @@
+_repo: Anton-Tchekhov-And-Other-Essays_56758
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Murry, John Middleton
+    aliases:
+    - Murry, J. Middleton (John Middleton)
+    - Murray, J. Middleton
+    birthdate: 1889
+    deathdate: 1957
+    gutenberg_agent_id: '5606'
+    url: http://www.gutenberg.org/2009/agents/5606
+creator:
+  author:
+    agent_name: Shestov, Lev
+    gutenberg_agent_id: '49023'
+    url: http://www.gutenberg.org/2009/agents/49023
+description: ''
+gutenberg_issued: '2018-03-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '56758'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Anton Tchekhov
+
+  And Other Essays'
+url: http://www.gutenberg.org/ebooks/56758
