@@ -1,5 +1,5 @@
 _repo: Anton-Tchekhov-And-Other-Essays_56758
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Murry, John Middleton
@@ -10,12 +10,17 @@ contributor:
     deathdate: 1957
     gutenberg_agent_id: '5606'
     url: http://www.gutenberg.org/2009/agents/5606
+covers:
+- cover_type: archival
+  image_path: 56758-h/images/cover.jpg
 creator:
   author:
     agent_name: Shestov, Lev
     gutenberg_agent_id: '49023'
     url: http://www.gutenberg.org/2009/agents/49023
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56758#Anton-Tchekhov-And-Other-Essays
 gutenberg_issued: '2018-03-16'
 gutenberg_type: Text
 identifiers:
